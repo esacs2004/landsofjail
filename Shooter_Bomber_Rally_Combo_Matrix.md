@@ -132,6 +132,18 @@ Purpose note: shooter-led defensive setups that hold long exchanges and reduce c
 | Joiner rally | Devilian | +25% Troops DEF; +16% rally-attack DEF; +25% Troops Lethality (durable counter-pressure pick). |
 | Joiner rally | Inata | +25% Troops HP; +25% Troops ATK (balanced hold + damage contribution). |
 
+#### Purpose: Defense/Counter-Burst
+Purpose note: shooter-led defensive setups that absorb first-contact burst, reduce incoming enemy conversion, and punish during enemy cooldown windows.
+
+| Rally role | Multiple combinations | Overall boost applied to rally |
+|---|---|---|
+| Initiated rally | Devilian + Gimes + Gerd | +50% Troops DEF; +16% rally-attack DEF; +25% Troops HP; +20% Troops DMG taken reduction; +25% Troops Lethality; -20% Enemy Troops ATK. |
+| Initiated rally | Inata + Tormund + Vesaryon | +25% Troops ATK; +50% Troops HP; +25% Troops DEF; -20% Enemy DMG; +20% attack-triggered stun chance. |
+| Initiated rally | Platos + Gimes + Iwado | +40% Troops DMG taken reduction; +37% Troops HP; +14% Troops DEF; -20% Enemy Troops Lethality. |
+| Joiner rally | Tormund | +25% Troops DEF; +25% Troops HP; +20% attack-triggered stun chance (best anti-burst frontline stabilizer). |
+| Joiner rally | Platos | +20% Troops DMG taken reduction (fastest first-contact damage smoothing). |
+| Joiner rally | Vesaryon | -20% Enemy DMG (directly lowers enemy spike conversion). |
+
 ### Bomber Defense Matrix
 
 #### Purpose: Defense/Hold
@@ -145,6 +157,18 @@ Purpose note: bomber-led defensive setups that absorb burst and maintain counter
 | Joiner rally | Gimes | +25% Troops HP; +20% Troops DMG taken reduction (highest repeat-value defensive joiner). |
 | Joiner rally | Tormund | +25% Troops DEF; +25% Troops HP; +20% attack-triggered stun chance (frontline stabilizer). |
 | Joiner rally | Samir | +14% Troops ATK; +12% Troops Lethality; -20% Enemy Troops HP (defensive counter-pressure joiner). |
+
+#### Purpose: Defense/Counter-Burst
+Purpose note: bomber-led defensive setups that deny synchronized enemy spike windows and immediately transition into counter-pressure.
+
+| Rally role | Multiple combinations | Overall boost applied to rally |
+|---|---|---|
+| Initiated rally | Tormund + Platos + Gerd | +50% Troops DEF; +25% Troops HP; +20% Troops DMG taken reduction; -20% Enemy Troops ATK; +20% attack-triggered stun chance. |
+| Initiated rally | Gimes + Devilian + Vesaryon | +25% Troops HP; +20% Troops DMG taken reduction; +25% Troops DEF; +16% rally-attack DEF; +25% Troops Lethality; -20% Enemy DMG. |
+| Initiated rally | Samir + Platos + Vesaryon | +14% Troops ATK; +12% Troops Lethality; +20% Troops DMG taken reduction; -20% Enemy Troops HP; -20% Enemy DMG. |
+| Joiner rally | Tormund | +25% Troops DEF; +25% Troops HP; +20% attack-triggered stun chance (best first-hit denial join). |
+| Joiner rally | Gimes | +25% Troops HP; +20% Troops DMG taken reduction (highest anti-burst sustain join). |
+| Joiner rally | Vesaryon | -20% Enemy DMG (anti-spike utility pick for mass windows). |
 
 ## Notes on Conditional Skills
 - Lofili `Tactical Move` is proc-based (50% chance), so it is listed as a spike modifier and not folded into deterministic totals.
