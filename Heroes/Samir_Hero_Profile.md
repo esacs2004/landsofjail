@@ -8,38 +8,11 @@ Source: images/Samir/ screenshots provided in this workspace
 - Title shown: the Black Scorpion
 - Rarity shown: SR
 - Hero type: Bomber (grenade icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 479,569
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: The Hero is in the training camp and cannot get upgraded.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071830
-
-### New unlock shown in star-up panel
-- New Skill shown: Lv.1 (icon shown in panel).
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 584 | +48 |
-| Hero DEF | 732 | +108 |
-| Hero HP | 5,856 | +585 |
-| Minion ATK | 194 | +30 |
-| Minion DEF | 244 | +36 |
-| Minion HP | 1,952 | +288 |
-
-### War stats
-- War values are below the visible crop in this snapshot and are not readable.
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 1-Star Tier 5.
-- Power shown: 81,024 (+14,784).
-- Hero shard progress shown: 10/15.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 070431
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 070431
 | Bomber Lethality | 53.41% |
 | Bomber HP | 47.86% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.2, Lv.2, Lv.1 (third shown as locked slot); War/development skills at Lv.2 and Lv.2.
+Observed levels on the panel: Arrest skills at Lv.2, Lv.2, Lv.1 (third shown as locked slot); War/development skills at Lv.2 and Lv.2.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -84,19 +57,19 @@ Observed unlock text on Arrest panel:
 Observed requirement text on War panels:
 - Upgrade Requires: 2-Star Hero.
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Samir UI evidence.
+Not available in provided Samir UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Samir skills.
+- Names and effects, with progression rows for all visible Samir skills.
 - Arrest unlock requirement text for Scorching Mortar panel.
 - No Exclusive Equipment tab shown on Samir panel.
 

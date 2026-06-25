@@ -8,38 +8,11 @@ Source: images/Inata/ screenshots provided in this workspace
 - Title: the Prodigy
 
 - Hero type: Shooter (gun icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 767,758
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Upgrade progress shown on panel: 255.8K / 1.2M
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071536
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,880 | +160 |
-| Hero DEF | 1,548 | +132 |
-| Hero HP | 11,610 | +990 |
-| Minion ATK | 626 | +54 |
-| Minion DEF | 516 | +44 |
-| Minion HP | 3,870 | +330 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Shooter ATK | 106.44% | +6.79% |
-| Shooter DEF | 106.44% | +6.79% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 3-Star Tier 1.
-- Power shown: 271,440 (+32,040).
-- Hero shard progress shown: 11/40.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 065053
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 065053
 | Shooter Lethality | 56% |
 | Shooter HP | 54.94% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.4, Lv.4, and Lv.3; War/development skills at Lv.4, Lv.3, and Lv.3.
+Observed levels on the panel: Arrest skills at Lv.4, Lv.4, and Lv.3; War/development skills at Lv.4, Lv.3, and Lv.3.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -82,7 +55,7 @@ Observed current levels on the panel: Arrest skills at Lv.4, Lv.4, and Lv.3; War
 Observed requirement text on skill panels:
 - Upgrade Requires: 4-Star Hero
 
-## 5) Exclusive Equipment: Iron Sentinel
+## 4) Exclusive Equipment: Iron Sentinel
 
 ### Equipment level-up snapshot shown (Lv.2 -> Lv.3)
 - Power shown: 61,200 (+25,200)
@@ -118,12 +91,12 @@ Observed requirement text on skill panels:
 | Courageous | Arrest | Lv.1 and Lv.5 seen | Lv.1: Every basic attack restores HP equal to 6% of ATK (next shown as 9%). Lv.5: Every basic attack restores HP equal to 18% of ATK. |
 | Defender | War | Lv.1 and Lv.5 seen | Lv.1: While defending, all our troops' HP Boost 4%. Lv.5: While defending, all our troops' HP Boost 16%. |
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and 5-step progression rows for all 6 core skills.
+- Names and effects, with 5-step progression rows for all 6 core skills.
 - Exclusive equipment name Iron Sentinel.
 - Equipment stat transitions for Lv.2 -> Lv.3 and full Lv.10 preview values.
 - Courageous effects at Lv.1 and Lv.5.
@@ -133,4 +106,4 @@ Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

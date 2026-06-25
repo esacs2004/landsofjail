@@ -8,28 +8,9 @@ Source: images/Phoenix/ screenshots provided in this workspace
 
 - Hero type: Shieldbearer (shield icon)
 - Observed star/tier snapshot: 3-Star Tier 4
-- Observed power snapshot: 459,900 (next star-up preview +43,350)
 - Hero shard progress shown: 15/40
 
-## 2) Star-Up Preview (Observed)
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,840 | +114 |
-| Hero DEF | 1,920 | +120 |
-| Hero HP | 36,000 | +2,250 |
-| Minion ATK | 612 | +38 |
-| Minion DEF | 640 | +40 |
-| Minion HP | 12,000 | +750 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Shieldbearer ATK | 164.77% | +8.8% |
-| Shieldbearer DEF | 164.77% | +8.8% |
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 062558
 
@@ -51,7 +32,7 @@ From screenshot: 2026-06-25 062558
 | Shieldbearer Lethality | 92.02% |
 | Shieldbearer HP | 94.65% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
 All six skills were shown at Lv.4 in the screenshots. Each skill panel shows a 5-step progression.
 
@@ -69,7 +50,7 @@ All six skills were shown at Lv.4 in the screenshots. Each skill panel shows a 5
 | Unyielding Spirit | Increases all allied troops' HP by 20%. | Troops HP increase: 5% / 10% / 15% / 20% / 25% | 4-Star Hero |
 | Earth-Shaking Hammer | Has a(n) 16% chance to stun the enemy foe 1 round when attacking. | Stun Rate: 4% / 8% / 12% / 16% / 20% | 4-Star Hero |
 
-## 5) Exclusive Equipment: Colossus Hammer
+## 4) Exclusive Equipment: Colossus Hammer
 
 ### Equipment level-up snapshot shown (Lv.4 -> Lv.5)
 - Power shown: 139,500 -> 171,000 (delta +31,500)
@@ -109,11 +90,11 @@ Additional mid-level evidence (Lv.2 -> Lv.3 panel):
 - Blazing Cloud text confirms scaling at that step: 60% -> 70% ATK Speed.
 - Decisive Strike is present at Lv.2 in that panel, but lower text is partially cropped in the screenshot.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero skill names, descriptions at Lv.4, and 5-step progression numbers for all six base skills.
-- Star-up stat gains shown in the Star Up Preview panel.
+- Next-star stat gains are shown in source evidence.
 - Total Hero Stats panel values (arrest + war) from the added 062558 screenshot.
 - Equipment stats for Lv.4 -> Lv.5 and full Lv.10 equipment preview stats.
 - Exclusive equipment skill effects at Lv.5 for Blazing Cloud and Decisive Strike.
@@ -121,5 +102,5 @@ Confirmed from screenshots:
 Inferred (high confidence) from observed progression pattern:
 - Exclusive equipment skills appear to have 5 levels.
 
-Source limitation (does not block current profile completeness):
+Source limitation (does not block profile completeness):
 - Full Decisive Strike lower-level progression text (Lv.1-Lv.4) is partially obscured/cropped in available screenshots.

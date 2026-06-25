@@ -8,38 +8,11 @@ Source: images/Gerd/ screenshots provided in this workspace
 - Title shown: the Justice
 
 - Hero type: Shieldbearer (shield icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 781,931
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: The Hero is in the training camp and cannot get upgraded.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071226
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,030 | (gain shown, partially unclear in screenshot) |
-| Hero DEF | 1,680 | +120 |
-| Hero HP | 20,160 | +1,440 |
-| Minion ATK | 342 | (gain shown, partially unclear in screenshot) |
-| Minion DEF | 560 | +40 |
-| Minion HP | 6,720 | +480 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Shieldbearer ATK | 79.23% | +4.75% |
-| Shieldbearer DEF | 79.23% | +4.75% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 3-Star Tier 2
-- Power shown: 242,784 (+25,056)
-- Hero shard progress shown: 31/40
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 071222
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 071222
 | Shieldbearer Lethality | 65.77% |
 | Shieldbearer HP | 68.4% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.3 each.
+Observed levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.3 each.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -78,24 +51,24 @@ Observed current levels on the panel: Arrest skills at Lv.3 each; War/developmen
 | Sturdy Shield | Increases all allied troops' DEF by 15%. | Troops DEF: 5% / 10% / 15% / 20% / 25% |
 | Riot Punishment | Enemy troops' ATK reduced by 12%. | Enemy ATK Decrease: 4% / 8% / 12% / 16% / 20% |
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Gerd UI evidence.
+Not available in provided Gerd UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
-- Star Up Preview values and visible next-star gains.
+- Next-star gain values shown in source evidence.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Gerd skills.
+- Names and effects, with progression rows for all visible Gerd skills.
 - No Exclusive Equipment tab shown on Gerd panel.
 
 Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- Two star-up gain numbers in Arrest section are partially unclear due screenshot resolution.
+- Two gain numbers in Arrest section are partially unclear due screenshot resolution.

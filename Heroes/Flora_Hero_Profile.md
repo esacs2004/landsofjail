@@ -8,38 +8,11 @@ Source: images/Flora/ screenshots provided in this workspace
 - Title shown: Wildfire Explorer
 
 - Hero type: Shooter (gun icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 614,050
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: The Hero is in the training camp and cannot get upgraded.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071006
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,632 | +116 |
-| Hero DEF | 1,680 | +120 |
-| Hero HP | 10,080 | +720 |
-| Minion ATK | 544 | +38 |
-| Minion DEF | 560 | +40 |
-| Minion HP | 3,360 | +240 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Shooter ATK | 79.23% | +4.75% |
-| Shooter DEF | 79.23% | +4.75% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 3-Star Tier 2
-- Power shown: 242,784 (+25,056)
-- Hero shard progress shown: 2/40
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 070953
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 070953
 | Shooter Lethality | 45.5% |
 | Shooter HP | 44.44% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.3 each.
+Observed levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.3 each.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -78,24 +51,24 @@ Observed current levels on the panel: Arrest skills at Lv.3 each; War/developmen
 | Own Beat | Increases Expedition Speed by 60% during monster-hunting. | Marching Speed Against Field Enemies: 20% / 40% / 60% / 80% / 100% |
 | Vigorous Spirit | After battle, 6% of severely wounded soldiers in Flora's unit are converted to lightly wounded. | Severe-to-Minor Injury Conversion Rate: 2% / 4% / 6% / 8% / 10% |
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Flora UI evidence.
+Not available in provided Flora UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
-- Star Up Preview values and next-star gains.
+- Next-star gain values shown in source evidence.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Flora skills.
+- Names and effects, with progression rows for all visible Flora skills.
 - No Exclusive Equipment tab shown on Flora panel.
 
 Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

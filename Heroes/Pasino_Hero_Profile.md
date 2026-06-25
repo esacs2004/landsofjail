@@ -8,38 +8,11 @@ Source: images/Pasino/ screenshots provided in this workspace
 - Title shown: Venom
 
 - Hero type: Bomber (grenade icon)
-- Observed level snapshot: Lv.1
-- Observed power snapshot: 560,099
 - Minions shown: 2
 - Troop Capacity shown: 68
 - Upgrade progress shown on panel: 255.8K / 1,000
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071805
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,326 | +140 |
-| Hero DEF | 2,040 | +216 |
-| Hero HP | 13,260 | +1,404 |
-| Minion ATK | 442 | +46 |
-| Minion DEF | 680 | +72 |
-| Minion HP | 4,420 | +468 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Bomber ATK | 60.08% | +5.48% |
-| Bomber DEF | 60.08% | +5.48% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 3-Star Tier 5.
-- Power shown: 261,690 (+36,426).
-- Hero shard progress shown: 82/100.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 070141
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 070141
 | Bomber Lethality | 53.41% |
 | Bomber HP | 47.86% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.4 and Lv.4; War/development skills at Lv.4 and Lv.4.
+Observed levels on the panel: Arrest skills at Lv.4 and Lv.4; War/development skills at Lv.4 and Lv.4.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -80,23 +53,23 @@ Observed current levels on the panel: Arrest skills at Lv.4 and Lv.4; War/develo
 Observed requirement text on panel:
 - Upgrade Requires: 4-Star Hero
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Pasino UI evidence.
+Not available in provided Pasino UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Pasino skills.
+- Names and effects, with progression rows for all visible Pasino skills.
 - No Exclusive Equipment tab shown on Pasino panel.
 
 Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

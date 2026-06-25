@@ -8,38 +8,11 @@ Source: images/Vesaryon/ screenshots provided in this workspace
 - Title shown: the Annihilator
 - Rarity shown: SR
 - Hero type: Shieldbearer (shield icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 593,387
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: The Hero is in the training camp and cannot get upgraded.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071845
-
-### New unlock shown in star-up panel
-- New Skill shown: Lv.1 (icon shown in panel).
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 448 | +44 (shown) |
-| Hero DEF | 732 | Gain shown (partially obscured) |
-| Hero HP | 8,784 | Gain shown (partially obscured) |
-| Minion ATK | 148 | Gain shown (partially obscured) |
-| Minion DEF | 244 | +36 |
-| Minion HP | 2,920 | Gain shown (partially obscured) |
-
-### War stats
-- War values are below the visible crop in this snapshot and are not readable.
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 1-Star Tier 5.
-- Power shown: 81,024 (+14,784).
-- Hero shard progress shown: 0/15.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 070336
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 070336
 | Shieldbearer Lethality | 65.77% |
 | Shieldbearer HP | 68.4% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.1, Lv.1, Lv.1 (third shown as locked slot); War/development skills at Lv.1 and Lv.1.
+Observed levels on the panel: Arrest skills at Lv.1, Lv.1, Lv.1 (third shown as locked slot); War/development skills at Lv.1 and Lv.1.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -84,19 +57,19 @@ Observed unlock text on Arrest panel:
 Observed upgrade-state text on War panels:
 - Upgrade button shown with shard progress: 97/15.
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Vesaryon UI evidence.
+Not available in provided Vesaryon UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Vesaryon skills.
+- Names and effects, with progression rows for all visible Vesaryon skills.
 - Arrest unlock requirement text for Annihilation Mode panel.
 - No Exclusive Equipment tab shown on Vesaryon panel.
 
@@ -104,4 +77,4 @@ Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

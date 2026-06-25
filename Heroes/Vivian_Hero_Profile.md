@@ -8,38 +8,11 @@ Source: images/Vivian/ screenshots provided in this workspace
 - Title: Harmonic Dreamer
 
 - Hero type: Bomber (grenade icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 848,569
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Upgrade progress shown on panel: 255.8K / 1.2M
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071445
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 1,680 | +130 |
-| Hero DEF | 1,680 | +120 |
-| Hero HP | 16,800 | +1,200 |
-| Minion ATK | 560 | +40 |
-| Minion DEF | 560 | +40 |
-| Minion HP | 5,600 | +400 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Bomber ATK | 113.2% | +4.77% |
-| Bomber DEF | 113.2% | +4.77% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 3-Star Tier 2.
-- Power shown: 303,480 (+31,320).
-- Hero shard progress shown: 39/40.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 064656
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 064656
 | Bomber Lethality | 63.91% |
 | Bomber HP | 58.36% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.4, Lv.4, and Lv.3.
+Observed levels on the panel: Arrest skills at Lv.3 each; War/development skills at Lv.4, Lv.4, and Lv.3.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -82,7 +55,7 @@ Observed current levels on the panel: Arrest skills at Lv.3 each; War/developmen
 Observed requirement text on War/development panels:
 - Upgrade Requires: 4-Star Hero
 
-## 5) Exclusive Equipment: Soul Comet
+## 4) Exclusive Equipment: Soul Comet
 
 ### Equipment level-up snapshot shown (Lv.2 -> Lv.3)
 - Power shown: 61,200 (+25,200)
@@ -118,12 +91,12 @@ Observed requirement text on War/development panels:
 | Destructive Finale | Arrest | Lv.1 and Lv.5 seen | Lv.1: Increases ATK by 12% (next shown as 16%). Lv.5: Increases ATK by 28%. |
 | Death Metal | War | Lv.1 and Lv.5 seen | Lv.1: During rally attacks, all our troops' Lethality Boost 4%. Lv.5: During rally attacks, all our troops' Lethality Boost 16%. |
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and 5-step progression rows for all 6 core skills.
+- Names and effects, with 5-step progression rows for all 6 core skills.
 - Exclusive equipment name Soul Comet.
 - Equipment stat transitions for Lv.2 -> Lv.3 and full Lv.10 preview values.
 - Destructive Finale effects at Lv.1 and Lv.5.
@@ -133,4 +106,4 @@ Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

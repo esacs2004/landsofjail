@@ -7,23 +7,11 @@ Source: images/Mai/ screenshots provided in this workspace
 
 - Hero type: Shooter (gun icon)
 - Collaboration tag shown: KOF XV
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 998,349
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: Synchronous Hero cannot be upgraded. Level matches the synced Hero.
 
-## 2) Star-Up Preview (Observed)
-
-Star-up view is present only in sync mode for Mai in the available evidence.
-
-Observed from star-up sync panel:
-- Enhance Skill shown: Fighting Spirit Accumulation Lv.20.
-- Leader Skill shown: Art of Shiranui Lv.3.
-
-Numeric Arrest/War stat-gain rows are not shown in this sync-mode panel.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 063626
 
@@ -45,9 +33,9 @@ From screenshot: 2026-06-25 063626
 | Shooter Lethality | 45.5% |
 | Shooter HP | 44.4% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.5 each; War-side skill icons at Lv.3, Lv.3, and Lv.4.
+Observed levels on the panel: Arrest skills at Lv.5 each; War-side skill icons at Lv.3, Lv.3, and Lv.4.
 
 ### Arrest skills
 | Skill | Base effect shown | Progression behavior |
@@ -66,9 +54,9 @@ Observed current levels on the panel: Arrest skills at Lv.5 each; War-side skill
 Observed lock message in skill panel:
 - Synchronous Heroes cannot use the synced target's Development Skills.
 
-## 5) Exclusive Equipment: Kachousen
+## 4) Exclusive Equipment: Kachousen
 
-Current activation state shown:
+Activation state shown:
 - Not Activated
 
 ### Equipment stats visibility
@@ -85,21 +73,21 @@ Current activation state shown:
 
 No War exclusive skill line was visible for Mai in the provided screenshots.
 
-## 6) Additional Sync-Related Bonuses Observed
+## 5) Additional Sync-Related Bonuses Observed
 
 These were shown as pop-up bonuses on the main panel.
 
-| Bonus | Observed level | Current effect shown | Next level effect shown |
+| Bonus | Observed level | Effect shown | Next level effect shown |
 |---|---|---|---|
 | Art of Shiranui | Lv.3 | Increases all allied troops' Lethality by 9% without deploying. | Lethality by 12% (unlock text references upgrading to 4-Star). |
 | Fighting Spirit Accumulation | Lv.20 | Gains sync target's 100% Arrest Stats and 108.44% War Stats. | Gains sync target's 110% Arrest Stats and 113.19% War Stats (unlock text references 3-Star Tier 2). |
 
-## 7) Coverage Status
+## 6) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and sync-locked status.
 - Total Hero Stats panel values (Arrest + War).
-- Three Arrest skill names and their visible current effect text.
+- Three Arrest skill names and their visible effect text.
 - War-side icon levels (Lv.3/Lv.3/Lv.4).
 - Exclusive equipment name Kachousen and Not Activated state.
 - Hishou Ryuuenjin Lv.0 effect text with next-step value shown in parentheses.
@@ -110,5 +98,5 @@ Inferred/high-confidence:
 - Missing War skill details are hidden because synced heroes cannot use the synced target's development skills.
 
 Source limitations:
-- War skill names/effects are unavailable in current evidence due sync lock behavior.
+- War skill names/effects are unavailable in provided evidence due sync lock behavior.
 - Exclusive equipment stat numbers and War exclusive skill (if present) are unavailable while Kachousen is not activated.

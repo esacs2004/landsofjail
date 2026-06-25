@@ -8,38 +8,11 @@ Source: images/Lofili/ screenshots provided in this workspace
 - Title: the Ranger
 
 - Hero type: Shooter (gun icon)
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 759,348
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: The Hero is in the training camp and cannot get upgraded.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071549
-
-### Arrest stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Hero ATK | 2,192 | +102 |
-| Hero DEF | 2,256 | +108 |
-| Hero HP | 13,536 | +1,008 |
-| Minion ATK | 728 | +56 |
-| Minion DEF | 752 | +56 |
-| Minion HP | 4,512 | +336 |
-
-### War stats
-| Stat | Current | Gain on next star-up |
-|---|---:|---:|
-| Shooter ATK | 101.99% | +6.63% |
-| Shooter DEF | 101.99% | +6.63% |
-
-Additional star-up snapshot values shown:
-- Tier/state shown: 4-Star Tier 0.
-- Power shown: 366,912 (+39,072).
-- Hero shard progress shown: 27/100.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 065309
 
@@ -61,9 +34,9 @@ From screenshot: 2026-06-25 065309
 | Shooter Lethality | 45.5% |
 | Shooter HP | 44.44% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.4 each; War skills at Lv.4 each.
+Observed levels on the panel: Arrest skills at Lv.4 each; War skills at Lv.4 each.
 
 ### Arrest skills
 | Skill | Base effect shown | Level progression shown |
@@ -78,23 +51,23 @@ Observed current levels on the panel: Arrest skills at Lv.4 each; War skills at 
 | Strategic Insight | Increases all allied troops' ATK by 20%. | Troops ATK Increase: 5% / 10% / 15% / 20% / 25% |
 | Tactical Move | All our troops have a 50% chance to increase their DMG by 40% when attacking. | Troops DMG: 10% / 20% / 30% / 40% / 50% |
 
-## 5) Exclusive Equipment
+## 4) Exclusive Equipment
 
-Not available in current Lofili UI evidence.
+Not available in provided Lofili UI evidence.
 
 Evidence from provided screenshots:
 - Bottom navigation shows Stats and Skills tabs only, with no Exclusive Equipment tab.
 
-## 6) Coverage Status
+## 5) Coverage Status
 
 Confirmed from screenshots:
 - Hero overview values and rarity.
 - Total Hero Stats panel values (Arrest + War).
-- Names, current effects, and progression rows for all visible Lofili skills.
+- Names and effects, with progression rows for all visible Lofili skills.
 - No Exclusive Equipment tab shown on Lofili panel.
 
 Inferred/high-confidence:
 - None beyond directly displayed values.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.

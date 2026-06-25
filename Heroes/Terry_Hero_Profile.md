@@ -7,23 +7,11 @@ Source: images/Terry/ screenshots provided in this workspace
 
 - Hero type: Bomber (grenade icon)
 - Collaboration tag shown: KOF XV
-- Observed level snapshot: Lv.67
-- Observed power snapshot: 1,086,700
 - Minions shown: 9
 - Troop Capacity shown: 13,577
 - Status message shown: Synchronous Hero cannot be upgraded. Level matches the synced Hero.
 
-## 2) Star-Up Preview (Observed)
-
-From screenshot: 2026-06-25 071342 (sync-mode star-up view)
-
-Observed from star-up sync panel:
-- Enhance Skill shown: Fighting Spirit Accumulation Lv.15.
-- Leader Skill shown: Will of Wolf Lv.2.
-
-Numeric Arrest/War stat-gain rows are not shown in this sync-mode panel.
-
-## 3) Total Hero Stats Snapshot (Observed)
+## 2) Total Hero Stats Snapshot (Observed)
 
 From screenshot: 2026-06-25 063334
 
@@ -45,9 +33,9 @@ From screenshot: 2026-06-25 063334
 | Bomber Lethality | 69.16% |
 | Bomber HP | 63.61% |
 
-## 4) Skills (Hero Panel)
+## 3) Skills (Hero Panel)
 
-Observed current levels on the panel: Arrest skills at Lv.5 each; War skills at Lv.4, Lv.3, and Lv.4.
+Observed levels on the panel: Arrest skills at Lv.5 each; War skills at Lv.4, Lv.3, and Lv.4.
 User-confirmed gameplay rule: Terry's Arrest skills are static throughout the game (no progression scaling).
 
 ### Arrest skills
@@ -64,7 +52,7 @@ User-confirmed gameplay rule: Terry's Arrest skills are static throughout the ga
 | Blazing Heat | Has a(n) 12% chance to stun the enemy for 1 round when attacking. | Stun Rate: 4% / 8% / 12% / 16% / 20% |
 | Fiery Ambition | Increases all allied troops' HP by 20%. | Troops HP Increase: 5% / 10% / 15% / 20% / 25% |
 
-## 5) Exclusive Equipment: Power Basketball
+## 4) Exclusive Equipment: Power Basketball
 
 ### Equipment stat snapshot shown (Lv.3)
 - Power shown: 86,400
@@ -100,20 +88,20 @@ User-confirmed gameplay rule: Terry's Arrest skills are static throughout the ga
 | Burning Knuckle | Arrest | Lv.2 and Lv.5 seen | Lv.2: Increases DMG dealt by 32%. Lv.5: Increases DMG dealt by 38%. |
 | Fuel Stockpile | War | Lv.1 and Lv.5 seen | Lv.1: While defending, all our troops' DEF Boost 4% (next shown as 7%). Lv.5: While defending, all our troops' DEF Boost 15%. |
 
-## 6) Additional Sync-Related Bonuses Observed
+## 5) Additional Sync-Related Bonuses Observed
 
 These were shown as pop-up bonuses on the main panel, separate from the 6 core skill icons.
 
-| Bonus | Observed level | Current effect shown | Next level effect shown |
+| Bonus | Observed level | Effect shown | Next level effect shown |
 |---|---|---|---|
 | Will of Wolf | Lv.2 | Increases all allied troops' ATK by 6%, without deploying. | ATK by 9% (text says unlock at 3-Star). |
 | Fighting Spirit Accumulation | Lv.15 | Gains sync target's 100% Arrest Stats and 104.65% War Stats. | Gains sync target's 100% Arrest Stats and 108.44% War Stats (unlock condition shown for next step). |
 
-## 7) Confirmed vs Inferred
+## 6) Confirmed vs Inferred
 
 Confirmed from screenshots:
 - Total Hero Stats panel values (Arrest + War) for Terry.
-- Names and effects for all 6 core skills currently shown.
+- Names and effects for all 6 core skills shown.
 - Arrest skills are static for Terry (user-confirmed gameplay behavior).
 - Full progression rows for all 3 War skills.
 - Exclusive equipment stats for Lv.3 and Lv.10, plus equipment power at both snapshots.
@@ -122,7 +110,7 @@ Confirmed from screenshots:
 - Sync bonus popups for Will of Wolf and Fighting Spirit Accumulation.
 
 Inferred/high-confidence:
-- Terry appears to be currently synced, which is why star-up editing is blocked on this profile.
+- Terry appears to be synced in provided evidence, which limits editable progression views on this profile.
 
 Source limitations:
-- None currently for the fields documented in this profile.
+- None for the fields documented in this profile.
