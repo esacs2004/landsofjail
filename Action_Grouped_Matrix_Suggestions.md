@@ -117,17 +117,46 @@ Use this mode rule:
 - Adjust front two slots first when losses are too high; adjust back three slots first when fights time out.
 - Keep Mai (sync: Mia) in the backline for consistency unless tests show a specific matchup requires replacing the sync engine.
 
-## 6) Quick Role Card
+## 6) PvP Prison Assault (Attacking Player Prisons)
+Purpose: Break enemy prison defense quickly while preserving enough survivability to absorb counter-pressure and reinforcements.
+
+### Starter matrix
+| Action intent | Recommended starter combination | Why this works | Audit confidence |
+|---|---|---|---|
+| Defended prison breach (recommended default) | Lofili + Flameborne + Phoenix | Highest documented prison-breach style pressure pattern: DEF shred plus conversion damage and control-backed uptime. | Matrix-validated |
+| Fast punish vs under-defended prison | Inata + Lunarl + Phoenix | Strong deterministic damage-race package for fast takedowns before reinforcement windows matter. | Matrix-validated |
+| Anti-counter-reinforcement push | Devilian + Samir + Phoenix | Combines survivability and pressure with enemy HP suppression to sustain damage through counter-response windows. | Matrix-validated |
+| March 2 option when top/default prison-assault heroes are occupied in March 1 | Samir + Platos + Vesaryon | Non-overlap documented trio with mitigation and enemy-damage suppression; safer for secondary assault waves. | Matrix-validated |
+
+### Suggested starter troop ratio (shooters:bombers:shieldbearers)
+- Default breach mix: 50:30:20
+- High-defense prison target: 45:35:20
+- Safer anti-counter mix: 45:25:30
+
+### Joiner matrix
+| Priority | Recommended joiner hero (single hero) | Additional two heroes only if required | Why this works | Audit confidence |
+|---|---|---|---|---|
+| 1 | Flameborne | If fixed package is called: Lofili + Phoenix | Reliable prison-breach utility through enemy DEF reduction and conversion support. | Matrix-validated |
+| 2 | Samir | If fixed package is called: Devilian + Phoenix | Adds pressure with enemy HP suppression, strong when defenders try to outlast first assault cycles. | Matrix-validated |
+| 3 | Lunarl | If fixed package is called: Inata + Phoenix | Strong deterministic offensive amplification for short kill windows. | Matrix-validated |
+| 4 | Devilian | If fixed package is called: Samir + Phoenix | Durable pressure joiner when expecting retaliation or prolonged exchanges. | Matrix-validated |
+
+### Joiner troop and execution note
+- Use leader-called troop bands; for prison assault joins, avoid overcommitting unless reinforcement timing is confirmed.
+- Joiners should send in leader-called order to prevent fragmented arrival waves.
+
+## 7) Quick Role Card
 | You are... | Use this first |
 |---|---|
-| Rally starter (Beast/Trial Cage) | Pick a starter row from the action section and call troop/type requirements before launch. |
-| Rally joiner (Beast/Trial Cage) | Send one listed joiner hero by default. Add the two support heroes only when the leader calls a fixed full-lineup package for that action. |
+| Rally starter (Beast/Trial Cage/PvP Prison Assault) | Pick a starter row from the action section and call troop/type requirements before launch. |
+| Rally joiner (Beast/Trial Cage/PvP Prison Assault) | Send one listed joiner hero by default. Add the two support heroes only when the leader calls a fixed full-lineup package for that action. |
 | Arrest/Arena player | Build around 5 slots: front 2 stall and back 3 impact, then optimize by report feedback. |
 
-## 7) Re-Audit Outcome by Action
+## 8) Re-Audit Outcome by Action
 | Action | Audit result | What changed |
 |---|---|---|
 | Beast rallies | Updated | Fast-kill default shifted to Inata + Flameborne + Phoenix to prioritize Wild Monster-specific value. Joiner priority adjusted to Flameborne > Inata > Lunarl > Mia. |
 | Trial Cage | Confirmed | Existing starter and joiner hierarchy remains aligned with matrix evidence. Confidence tags added. |
 | Arrest | Refined | Default remains your validated lineup pattern; non-default rows labeled inferred until additional tests confirm. |
 | PvP Arena | Refined | Default mirrors your validated arrest core; alternates retained as inferred matchup-specific options. |
+| PvP Prison Assault | Added | New evidence-based action section added using documented breakthrough/damage-race/counter-pressure rally combinations and confidence tags. |
