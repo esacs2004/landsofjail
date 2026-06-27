@@ -24,6 +24,8 @@ Purpose: Fast PvE conversion with low loss where possible.
 | Fast kill (default) | Inata + Flameborne + Phoenix | Keeps strong burst while adding direct Wild Monster damage scaling and DEF shred utility. | Inferred |
 | Defense-break beast target | Lofili + Flameborne + Phoenix | Adds enemy DEF reduction and high pressure conversion. | Inferred |
 | Safe repeat clears | Inata + Gimes + Phoenix | Adds survivability and reduced wipe risk across repeated pulls. | Inferred |
+| March 2 option when default/top Beast heroes are occupied in March 1 | Platos + Ekko + Iwado | Uses a fully available non-overlap trio from documented matrix combinations, prioritizing repeatable uptime and lower collapse risk when premium Beast core heroes are unavailable. | Matrix-validated |
+| March 2 aggressive option when default/top Beast heroes are occupied in March 1 | Samir + Platos + Vesaryon | Uses remaining documented non-overlap trio with stronger offensive pressure than pure hold sets while retaining mitigation and enemy damage suppression. | Matrix-validated |
 
 ### Suggested starter troop ratio (shooters:bombers:shieldbearers)
 - Default: 65:25:10
@@ -54,6 +56,8 @@ Purpose: Damage-race execution with disciplined timing windows.
 | Standard top-end damage race | Inata + Lunarl + Phoenix | Current strongest clean one-of-each offensive trio in documented matrix. | Matrix-validated |
 | High-pressure alternative | Vivian + Devilian + Phoenix | Strong ATK/Lethality profile with better defensive stability. | Matrix-validated |
 | Proc-upside alternative | Lofili + Lunarl + Phoenix | Good burst profile when Lofili proc windows align. | Matrix-validated |
+| March 2 option when default/top Trial Cage heroes are occupied in March 1 | Platos + Gimes + Iwado | Fully non-overlap documented trio from current matrix; strongest remaining stability package to preserve rally uptime when all top damage cores are already assigned. | Matrix-validated |
+| March 2 pressure option when default/top Trial Cage heroes are occupied in March 1 | Samir + Platos + Vesaryon | Non-overlap documented trio with better offensive tempo than pure hold cores while still carrying mitigation and enemy damage suppression. | Matrix-validated |
 
 ### Suggested starter troop ratio (shooters:bombers:shieldbearers)
 - Default: 60:25:15
